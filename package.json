@@ -1,0 +1,18 @@
+{
+  "name": "randomapi_playwright_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/axios": "^0.9.36",
+    "@types/node": "^24.5.0"
+  },
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}
